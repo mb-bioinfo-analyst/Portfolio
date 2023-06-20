@@ -3,8 +3,8 @@ const assets = [
     '/Portfolio/',
     '/Portfolio/index.html',
     '/style.css',
-    '/Portfolio/assets/img/mobile.png',
-    '/Portfolio/assets/img/favicon.png',
+    '/Portfolio/assets/img/logo2.png',
+    '/Portfolio/assets/img/logo2.png',
     'https://fonts.googleapis.com/css?family=Lato:300,400,700'
 ];
 // install event
